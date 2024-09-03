@@ -6,7 +6,7 @@
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=abhishektiwari6398&label=Profile%20views&color=0e75b6&style=flat" alt="abhishektiwari6398" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@pandit6398" target="blank"><img src="https://img.shields.io/twitter/follow/@pandit6398?logo=twitter&style=for-the-badge" alt="@pandit6398" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@pandit6398" target="blank"><img src="https://img.shields.io/twitter/follow/pandit6398?logo=twitter&style=for-the-badge" alt="@pandit6398" /></a> </p>
 
 - 🔭 I’m currently working on **career counseling project**
 
